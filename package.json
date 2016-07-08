@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/zmhot88/mean-blog/issues"
   },
-  "homepage": "https://github.com/zmhot88/mean-blog#readme"
+  "homepage": "https://github.com/zmhot88/mean-blog#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
